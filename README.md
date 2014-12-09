@@ -24,11 +24,11 @@ LGPL
 
 Author Information
 ------------------
+g-div
 
-Alex Lourie, djay.il@gmail.com
-
-Based on bash work by:
+Based on work by:
 ------------------
+Alex Lourie, djay.il@gmail.com
 
 Jasper N. Brouwer, jasper@nerdsweide.nl
 
